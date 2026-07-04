@@ -19,6 +19,11 @@ This repository records my ROS 2 learning journey and the project notes for a ge
 - Launch concept
 - TF coordinate transforms
 - URDF concept
+- RViz robot visualization
+- `robot_state_publisher`
+- `joint_state_publisher_gui`
+- 2-DOF simple robotic arm model
+- Programmatic joint motion with `/joint_states`
 
 ## Project Goal
 
@@ -46,3 +51,8 @@ logs/      Daily learning logs
 notes/     Concept notes
 projects/  Project design and implementation notes
 ```
+
+## Logs
+
+- [2026-07-03 ROS 2 First Steps](logs/2026-07-03-ros2-first-steps.md)
+- [2026-07-04 URDF, RViz, and Joint States](logs/2026-07-04-urdf-rviz-joint-states.md)
